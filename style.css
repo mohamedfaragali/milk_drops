@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(68, 197, 230);
+}
+h1 {
+    padding-inline: 10px;
+    color: rgb(248, 248, 250);
+    font-size: 50px;
+    font-style: italic; 
+}
+img {
+    width: 300px;
+    height: 350px;
+}
+p{
+    width: 50%;
+    margin:auto;
+    font-size: 30px;
+    color: white;
+}
+h2{
+    color: white;
+}
